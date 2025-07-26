@@ -35,5 +35,6 @@ Here’s a preview of the simulated output:
 1. Make sure Python is installed.
 2. Clone or download the repository.
 3. Navigate to the folder in command prompt or terminal.
+4. Run the code.
 
    
