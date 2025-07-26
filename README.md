@@ -26,7 +26,7 @@ As a Biomedical Engineering student passionate about space technology, I was int
 
 Here’s a preview of the simulated output:
 
-![Tracker Output](screenshots/output.png)
+![Tracker Output](screenshots/output-screenshot.png)
 
 ---
 
